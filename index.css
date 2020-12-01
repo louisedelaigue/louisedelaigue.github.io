@@ -70,7 +70,7 @@ header table {
     transition:0.4s ease-in-out;
 }
 #magnify h1:hover{
-    color:rgb(255, 44, 90);
+    color:rgb(50, 180, 255);
     cursor:pointer;
 }
 #img_here {
@@ -82,7 +82,7 @@ header table {
 }
 #logo {
     font-size:24px;
-    color:rgb(255, 44, 90);
+    color:rgb(50, 180, 255);
 }
 #navigation {
     text-align:right;
