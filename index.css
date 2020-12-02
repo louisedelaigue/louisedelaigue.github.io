@@ -410,7 +410,6 @@ article {
 }
 article > section {
     border-radius: 25px;
-    background-color: rgba(143, 143, 143, 0.1);
     border: 3px solid rgb(34, 230, 132);
     font-size: 16px;
     display: inline-block;
