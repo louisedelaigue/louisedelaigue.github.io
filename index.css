@@ -413,29 +413,15 @@ article > section {
     padding-left: 15px;
 }
 
-.pubbutton {
-  background-color: rgb(34, 230, 132);
-  border: none;
-  color: white;
-  padding: 16px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  margin: 4px 2px;
-  transition-duration: 0.4s;
-  cursor: pointer;
-}
-
 .button3 {
-  background-color: white; 
-  color: rgb(34, 230, 132); 
-  border: 2px solid rgb(34, 230, 132);
-  border-radius: 25px;
+  color: rgb(252, 255, 79); 
+  border: 2px solid rgb(252, 255, 79);
+  border-radius: 10px;
+  padding:10px;
 }
 
 .button3:hover {
-  background-color: rgb(34, 230, 132);
+  background-color: rgb(252, 255, 79);
   color: white;
 }
     
