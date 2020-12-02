@@ -407,8 +407,8 @@ article > section {
 }
 
 .publication {
-    background-color: rgba(252, 237, 71, 0.05);
-    border-left: 3px solid rgb(252, 237, 71);
+    background-color: rgba(252, 255, 79, 0.05);
+    border-left: 3px solid rgb(252, 255, 79);
     font-weight: normal;
     padding-left: 15px;
 }
@@ -431,6 +431,7 @@ article > section {
   background-color: white; 
   color: rgb(34, 230, 132); 
   border: 2px solid #f44336;
+  border-radius: 25px;
 }
 
 .button3:hover {
