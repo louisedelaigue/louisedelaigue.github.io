@@ -416,6 +416,7 @@ article > section {
     border-left: 3px solid rgb(252, 255, 79);
     font-weight: normal;
     padding-left: 15px;
+    margin-top: 15px;
 }
 
 .button3 {
