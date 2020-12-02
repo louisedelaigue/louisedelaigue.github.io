@@ -420,11 +420,9 @@ article > section {
 .publication {
     background-color: rgba(143, 143, 143);
     border-left: 3px solid rgb(143, 143, 143);
-    font-weight: normal;
     padding-left: 15px;
     padding-top: 5px;
     margin-top: 15px;
-    margin: 0;
 }
 
 .button3 {
