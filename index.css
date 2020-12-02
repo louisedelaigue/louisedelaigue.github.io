@@ -224,7 +224,7 @@ header table {
     width:100%;
 }
 #inner_div table tr td{
-    font-weight:bold;
+    font-weight:normal;
 }
 #inner_table tr td{
     padding:10px 20px !important;
