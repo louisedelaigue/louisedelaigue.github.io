@@ -225,6 +225,10 @@ header table {
     border-bottom:4px solid rgb(50, 180, 255);
     width:10.5%;
 }
+#contact a {
+    color:inherit;
+    text-decoration: none;
+}
 #contact table {
     width:100%;
 }
