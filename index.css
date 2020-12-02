@@ -2,6 +2,7 @@
 
 body {
     font-family: 'Poppins', sans-serif;
+    font-weight:normal;
     padding:0px;
     margin:0px;
     max-width:100vw;
@@ -224,7 +225,7 @@ header table {
     width:100%;
 }
 #inner_div table tr td{
-    font-weight:normal;
+    font-weight:bold;
 }
 #inner_table tr td{
     padding:10px 20px !important;
