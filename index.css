@@ -394,9 +394,11 @@ article {
     font-size: 0; /*fix white space*/
 }
 article > section {
+    border-radius: 25px;
+    background: #73AD21;
     font-size: 16px;
-    display: inline-block;
-    width: 250px;
+    display: block;
+    width: 33.33%;
     border: 1px outset black;
     padding: 30px;
     box-sizing: border-box;
