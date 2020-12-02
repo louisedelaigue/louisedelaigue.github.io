@@ -407,10 +407,8 @@ article > section {
 }
 
 .publication {
-    background-color: rgba(34, 230, 132, 0.2);
-    border-left: 2px solid rgb(34, 230, 132);
-}
-
-.authors {
+    background-color: rgba(252, 237, 71, 0.05);
+    border-left: 2px solid rgb(252, 237, 71);
     font-weight: normal;
 }
+
