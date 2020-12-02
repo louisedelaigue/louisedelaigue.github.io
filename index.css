@@ -426,9 +426,9 @@ article > section {
 }
 
 .button3 {
-  color: rgb(50, 180, 255); 
+  color: rgb(255, 44, 90); 
   font-size: 12px;
-  border: 2px solid rgb(50, 180, 255);
+  border: 2px solid rgb(255, 44, 90);
   border-radius: 10px;
   padding-left: 10px;
   padding-right: 10px;
@@ -438,7 +438,7 @@ article > section {
 }
 
 .button3:hover {
-  background-color: rgb(50, 180, 255);
+  background-color: rgb(255, 44, 90);
   color: white;
 }
     
