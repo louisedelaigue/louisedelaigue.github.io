@@ -410,5 +410,6 @@ article > section {
     background-color: rgba(252, 237, 71, 0.05);
     border-left: 2px solid rgb(252, 237, 71);
     font-weight: normal;
+    padding-left: 15px;
 }
 
