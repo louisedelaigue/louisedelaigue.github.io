@@ -179,6 +179,9 @@ header table {
     border-bottom:5px solid rgb(50, 180, 255);
     width:10%;
 }
+#papers a {
+    text-decoration: none;
+}
 #photos {
     width:100%;
     columns:3;
