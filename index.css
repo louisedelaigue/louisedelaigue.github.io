@@ -419,6 +419,7 @@ article > section {
   border: 2px solid rgb(255, 154, 71);
   border-radius: 10px;
   padding:10px;
+  margin-top: 15px;
 }
 
 .button3:hover {
