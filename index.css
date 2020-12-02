@@ -406,7 +406,11 @@ article > section {
     padding: 15px;
 }
 
-.citation {
-    color: rgb(34, 230, 132)
-    text-decoration: underline;
+.publication {
+    background-color: rgba(34, 230, 132, 0.2);
+    border-left: 2px solid rgb(34, 230, 132);
+}
+
+.authors {
+    font-weight: normal;
 }
