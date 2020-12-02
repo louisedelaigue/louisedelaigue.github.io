@@ -426,7 +426,10 @@ article > section {
   font-size: 10px;
   border: 2px solid rgb(255, 154, 71);
   border-radius: 10px;
-  padding:10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
   margin-top: 10px;
 }
 
