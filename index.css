@@ -408,21 +408,21 @@ article > section {
 }
 
 .publication {
-    background-color: rgba(252, 255, 79, 0.05);
+    background-color: rgba(252, 255, 79, 0.1);
     border-left: 3px solid rgb(252, 255, 79);
     font-weight: normal;
     padding-left: 15px;
 }
 
 .button3 {
-  color: rgb(252, 255, 79); 
-  border: 2px solid rgb(252, 255, 79);
+  color: rgb(255, 154, 71); 
+  border: 2px solid rgb(255, 154, 71);
   border-radius: 10px;
   padding:10px;
 }
 
 .button3:hover {
-  background-color: rgb(252, 255, 79);
+  background-color: rgb(255, 154, 71);
   color: white;
 }
     
