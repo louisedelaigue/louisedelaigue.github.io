@@ -418,8 +418,8 @@ article > section {
 }
 
 .publication {
-    background-color: rgba(252, 255, 79, 0.1);
-    border-left: 3px solid rgb(252, 255, 79);
+    background-color: rgba(143, 143, 143);
+    border-left: 3px solid rgb(143, 143, 143);
     font-weight: normal;
     padding-left: 15px;
     padding-top: 5px;
