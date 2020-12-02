@@ -430,7 +430,7 @@ article > section {
 .button3 {
   background-color: white; 
   color: rgb(34, 230, 132); 
-  border: 2px solid #f44336;
+  border: 2px solid rgb(34, 230, 132);
   border-radius: 25px;
 }
 
