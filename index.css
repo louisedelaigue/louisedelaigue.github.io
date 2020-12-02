@@ -182,7 +182,11 @@ header table {
     font-weight:normal;
 }
 #papers a {
+    color:inherit;
     text-decoration: none;
+}
+#papers a:hover{
+    border-bottom:2px solid #fff;
 }
 #photos {
     width:100%;
