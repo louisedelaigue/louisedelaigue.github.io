@@ -408,8 +408,33 @@ article > section {
 
 .publication {
     background-color: rgba(252, 237, 71, 0.05);
-    border-left: 2px solid rgb(252, 237, 71);
+    border-left: 3px solid rgb(252, 237, 71);
     font-weight: normal;
     padding-left: 15px;
 }
 
+.pubbutton {
+  background-color: rgb(34, 230, 132);
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button3 {
+  background-color: white; 
+  color: rgb(34, 230, 132); 
+  border: 2px solid #f44336;
+}
+
+.button3:hover {
+  background-color: rgb(34, 230, 132);
+  color: white;
+}
+    
