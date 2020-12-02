@@ -401,9 +401,9 @@ article > section {
     width: 33.33%;
     padding: 30px;
     box-sizing: border-box;
-    margin-top: 20%;
-    margin-bottom: 20%;
-    margin-right: 20%;
-    margin-left: 20%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 15px;
+    margin-left: 15px;
 }
 
