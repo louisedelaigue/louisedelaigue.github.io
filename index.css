@@ -401,5 +401,6 @@ article > section {
     width: 33.33%;
     padding: 30px;
     box-sizing: border-box;
+    margin: 30px;
 }
 
