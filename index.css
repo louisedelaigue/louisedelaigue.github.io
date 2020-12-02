@@ -407,7 +407,7 @@ article > section {
     padding: 15px;
 }
 
-citation {
+.citation {
     color: rgb(34, 230, 132)
     text-decoration: underline;
 }
