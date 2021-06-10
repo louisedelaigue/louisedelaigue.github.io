@@ -126,6 +126,11 @@ header table {
     width:20% !important;
     text-align:left;
 }
+
+#about a {
+    color:rgb(255, 44, 90);
+    text-decoration:none;
+}
 .social {
     color:rgb(34, 230, 132);
     font-size:23px;
