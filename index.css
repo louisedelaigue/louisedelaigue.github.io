@@ -127,11 +127,18 @@ header table {
     text-align:left;
 }
 
-#about a {
+#about a:link {
     color:rgb(255, 44, 90);
     border-bottom:2px solid #fff;
     text-decoration:none;
 }
+
+#about a:visited {
+    color: rgb(255, 44, 90);
+    border-bottom:2px solid #fff;
+    text-decoration:none;
+}
+
 #about a:hover{
     border-bottom:2px solid #fff;
 }
