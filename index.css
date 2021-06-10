@@ -178,17 +178,10 @@ header table {
     color:#fff;
     background:rgb(50, 180, 255);
 }
-#rightImage1 {
+#rightImage {
     width:100%;
     height:95vh;
     background:url("background.jpg") center center;
-    background-size:cover;
-    background-repeat:no-repeat;
-}
-#rightImage2 {
-    width:100%;
-    height:95vh;
-    background:url("profile.jpg") center center;
     background-size:cover;
     background-repeat:no-repeat;
 }
