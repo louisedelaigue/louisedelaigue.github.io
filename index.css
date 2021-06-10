@@ -132,6 +132,9 @@ header table {
     border-bottom:2px solid #fff;
     text-decoration:none;
 }
+#about a:hover{
+    border-bottom:2px solid #fff;
+}
 
 .social {
     color:rgb(34, 230, 132);
