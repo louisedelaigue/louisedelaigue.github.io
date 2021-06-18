@@ -227,8 +227,8 @@ header table {
 }
 #data h1 {
     padding:5px 0px;
-    border-bottom:3px solid rgb(50, 180, 255);
-    width:9.5%;
+    border-bottom:5px solid rgb(50, 180, 255);
+    width:20px;
 }
 #data h4 {
     font-weight:normal;
