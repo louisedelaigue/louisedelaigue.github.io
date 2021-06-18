@@ -206,7 +206,7 @@ header table {
 #papers h1 {
     padding:5px 0px;
     border-bottom:5px solid rgb(50, 180, 255);
-    width:85px;
+    width:110px;
 }
 #papers h4 {
     font-weight:normal;
@@ -228,7 +228,7 @@ header table {
 #data h1 {
     padding:5px 0px;
     border-bottom:5px solid rgb(50, 180, 255);
-    width:70px;
+    width:75px;
 }
 #data h4 {
     font-weight:normal;
@@ -276,7 +276,7 @@ header table {
 #contact h1 {
     padding:5px 0px;
     border-bottom:4px solid rgb(50, 180, 255);
-    width:90px;
+    width:120px;
 }
 #contact a {
     color:inherit;
